@@ -1,0 +1,12 @@
+1. chessboard - https://github.com/nagajothi70/CHESSBOARD.git
+2. gold calculator - https://github.com/nagajothi70/GOLD-CALCULATOR.git
+3. guess the number - https://github.com/nagajothi70/GUESS-THE-NUMBER.git
+4. to do list - https://github.com/nagajothi70/TODO-LIST.git
+5. arithmetic calculator - https://github.com/nagajothi70/ARITHMETIC-CALCULATOR.git
+6. eb bill calculator - https://github.com/nagajothi70/EB-BILL-CALCULATOR.git
+7. want he or he - https://github.com/nagajothi70/WANT-SHE-OR-HE.git
+8. odd or even - https://github.com/nagajothi70/ODD-OR-EVEN-NUMBER-CALCULATION.git
+9. basic password matcher - https://github.com/nagajothi70/BASIC-PASSWORD-MATCHER.git
+10. city status - https://github.com/nagajothi70/CITY-STATUS.git
+11. palindrome checker - https://github.com/nagajothi70/PALINDROM-CHECKER.git
+12. to f to c - https://github.com/nagajothi70/TO-F-TO-C.git
